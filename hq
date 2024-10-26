@@ -1,0 +1,1285 @@
+[33mcommit 71b1aae1f7a40fee90062de212ca77ea10e8e7b2[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Sep 9 18:10:34 2024 +0000
+
+    fix:alliance
+
+[33mcommit 8c72d48262156d7ca495bd0f0a872cd4e024333c[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Sep 9 08:59:56 2024 +0000
+
+    fix :alliance
+
+[33mcommit 416e99d683433b405123c47f183ca613fc9b13f2[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Sep 9 08:44:10 2024 +0000
+
+    fix: alliance
+
+[33mcommit 8ed7af91b4199e84c7d67541855b5e8e8f37b2de[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Sep 9 08:37:30 2024 +0000
+
+    fix:alliance
+
+[33mcommit 72bceeb7d121a1c7307f90c25f4791591e18d5a1[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 23:18:20 2024 +0000
+
+    update
+
+[33mcommit d5f5bca276ae03771228126e341597c882137ab2[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 23:09:13 2024 +0000
+
+    add leader list as first
+
+[33mcommit 0de9dc671af12a96123f975232d6ed2a059613f6[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 23:04:40 2024 +0000
+
+    fix spell issue
+
+[33mcommit f0805d7ed1b6fc2eb8ef4a4537269e786bb495d8[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 23:02:10 2024 +0000
+
+    sort members
+
+[33mcommit 409a378d4ebb5612d08e0219d8bb80b66591ce5a[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 22:59:09 2024 +0000
+
+    sort member list
+
+[33mcommit 14cb9a5511fe38a24968978ba2e50246a3f5f4d5[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 22:52:52 2024 +0000
+
+    update css
+
+[33mcommit 32607c74249dcf12d748975819a5c84baa121fc9[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 22:50:21 2024 +0000
+
+    fix list arrange
+
+[33mcommit 3059e0c42fa2e3b44d16d3370b7e7686e8437bae[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 22:24:32 2024 +0000
+
+    fix avatar
+
+[33mcommit 98c711b15b34046c087af58cfcc72e0cd6857e42[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 22:14:57 2024 +0000
+
+    fix avatar
+
+[33mcommit a778dc40a49d062ac56a3bec8aed8e2dc2a5ee7e[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 21:35:21 2024 +0000
+
+    fix avatar
+
+[33mcommit c2de96cad0fca5ef1d3d80ed9cd0b69f14897c27[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 21:27:17 2024 +0000
+
+    fix avatar
+
+[33mcommit 66ff4b946fbcee325431e1f0e72b1fc35fca76cd[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 21:20:41 2024 +0000
+
+    fix avatar and name
+
+[33mcommit 786b47bd339b7a0ce0257c54939d6e67dd4e48c1[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 21:14:21 2024 +0000
+
+    fix user avatar
+
+[33mcommit 3a434e123865764d9a38b09bc69209b1445f8a6a[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 16:48:39 2024 +0000
+
+    update
+
+[33mcommit 8f777b15a60b1add8b3ffb9510568093e635565c[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 16:43:49 2024 +0000
+
+    debug
+
+[33mcommit c883e61658c59f3bafbc4885ebcf974f77c1bbba[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 14:14:50 2024 +0000
+
+    debug
+
+[33mcommit 0701650583d218f10e995a571c45ada28dea2b47[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 14:10:21 2024 +0000
+
+    update
+
+[33mcommit 48c3dce2d005accff40bc07bd74f2036c952be12[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 14:04:16 2024 +0000
+
+    remove debug
+
+[33mcommit 5f7098df836ef6854777528e744378e472604622[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 14:00:21 2024 +0000
+
+    update logic for checking member
+
+[33mcommit c4c4d7f0e9556f36b1a7930e13735a8d5a095c68[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 13:52:40 2024 +0000
+
+    update
+
+[33mcommit 0814f45c820a64a2e961e8fd9d3d10ad3c69fc5f[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 13:40:30 2024 +0000
+
+    update fetch url to check chat member
+
+[33mcommit 2d656d8b8550ef8177a490b67f72eb5fdfd4f106[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 13:38:12 2024 +0000
+
+    Parse chat id
+
+[33mcommit 78a978345a5445ea36d9300f5208562813013fd5[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 13:06:03 2024 +0000
+
+    Debug
+
+[33mcommit dfe4097186f9f499818a773265e48620831c09a2[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 12:56:51 2024 +0000
+
+    Update api uri
+
+[33mcommit 8246e5128ba4f0cc45bb6041d9713c94f86bbde2[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 12:48:08 2024 +0000
+
+    Debug
+
+[33mcommit 853c04e59c25f236701b239d54e9effa7619bbc5[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 12:43:41 2024 +0000
+
+    add debug
+
+[33mcommit 7f3722267240bbf5d2c558fc8840427740649a13[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 12:36:22 2024 +0000
+
+    Add endpoint to check chat member
+
+[33mcommit ecc351d68e4e76c57dfded3d383d76602111cc5a[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 12:16:44 2024 +0000
+
+    Add func to check chat member
+
+[33mcommit c782baf8afee714178deec2f94b391030ba7cfc6[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 12:16:27 2024 +0000
+
+    Add default avatar svg
+
+[33mcommit d1385905e8c35947ef000bc3f8c7e8075a709a42[m
+Merge: 836e7ab 163b898
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 09:07:30 2024 +0800
+
+    Merge branch 'dev' of https://github.com/aimdo/megaton into dev
+
+[33mcommit 836e7abc2efea89db03734ad4f718ac4fc00d2f5[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Sep 1 09:07:24 2024 +0800
+
+    Fix feedback
+
+[33mcommit 163b898f5f57317cbf24f507e0bfb67428dd950f[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sat Aug 31 20:30:48 2024 +0000
+
+    fix attack speed field
+
+[33mcommit 84b9f05fa968773c941f2850dbd8bb5e463e9877[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 17:03:07 2024 +0800
+
+    Add null exception about lastDailyReward
+
+[33mcommit 37112d2c32adb9c44d5ec74a1a3ebea76ab31eee[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 16:41:21 2024 +0800
+
+    Edit invite_count field
+
+[33mcommit 7ef43f5aa6783796b3c1b09c855b1bf6b9234548[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 16:34:19 2024 +0800
+
+    Update
+
+[33mcommit d318ab1b1d20324eb8a767ce27d3f0c0be955b6d[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 16:33:48 2024 +0800
+
+    Update
+
+[33mcommit 6757e0276d82a3584e9ac764ed0244bc00af2ee7[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 16:33:37 2024 +0800
+
+    Update
+
+[33mcommit 006534b5099a6b216118da3055f5989f18360055[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 16:33:29 2024 +0800
+
+    Add date utils
+
+[33mcommit 8e5a88c460eaf2fdaea80f9bb179554dbf59bce7[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 16:33:15 2024 +0800
+
+    Add cron job to check daily reward
+
+[33mcommit c54aef6cbf0bc85d23358ea8cf3817ec7f8903e7[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 16:32:06 2024 +0800
+
+    Fix issue
+
+[33mcommit fe3afeba9c7df5a7b2ac74cc736b71788b325b31[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 16:31:49 2024 +0800
+
+    add action field instead of link
+
+[33mcommit 64c9e2dc77a94d6c4407c8f2b6a90209f308970a[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 16:28:41 2024 +0800
+
+    add NOT_FOUND
+
+[33mcommit 0f34311361eee3daa820c2ee2900eb39489b7195[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 16:28:32 2024 +0800
+
+    Add action field instead of link field
+
+[33mcommit c584da01fc7313cd64e113cb2c643714242adab0[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 16:19:37 2024 +0800
+
+    Add invite_count field
+
+[33mcommit b2fd88f7249c8681675840860266f1c237896e4c[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 11:16:57 2024 +0800
+
+    Add robot_users table
+
+[33mcommit 546e7749d18d8d51264ec0022b17de32ad3c5223[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 11:09:29 2024 +0800
+
+    Remove increasablePoint
+
+[33mcommit ca2efdac8677e8985e9d1441740a4d8bce0d035d[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 20 11:08:54 2024 +0800
+
+    Add robot_level table
+
+[33mcommit 5a313b273e7e556263cd8db9ace74bb0d8ab2dc9[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 21:12:02 2024 +0800
+
+    fix issue
+
+[33mcommit 4e5fa31a2ece4cecd2e363324467ffc24a73607d[m
+Merge: dc6cbdb b5c3b0c
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 12:47:59 2024 +0000
+
+    Merge branch 'dev' of https://github.com/aimdo/megaton into dev
+
+[33mcommit dc6cbdb935b2a8493da1f80831b8dca3a384ceae[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 12:47:30 2024 +0000
+
+    update
+
+[33mcommit 9c96f087962137388ec292a1000ff1bb288560c4[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 12:35:55 2024 +0000
+
+    remote edit button in user page
+
+[33mcommit b5c3b0cee26094ab483669f39200e20a46078a98[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 20:27:41 2024 +0800
+
+    add default user for login
+
+[33mcommit 49a12c640bcb74f29967673fda91f3c1178a543e[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 19:56:19 2024 +0800
+
+    Fix issue
+
+[33mcommit 44bd84bef93a22deb116609d415fc99b7134faff[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 19:54:44 2024 +0800
+
+    Add BOT_ROBOT_NOT_FOUND option
+
+[33mcommit 77210bcde9d4eed44b6695b2fb19941a8a279edc[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 19:54:22 2024 +0800
+
+    fix validation issue
+
+[33mcommit 291dd32f023efa4b816aac9b178207d1191de5a3[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 18:25:51 2024 +0800
+
+    update robot attribute page
+
+[33mcommit 9b6e232291e8f10a954f45fb98b3295fdf0eadcf[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 18:25:27 2024 +0800
+
+    Edit robot attribute page
+
+[33mcommit 754279d1d971d6e1b0eaadf67eeab3fe1a12ebcd[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 17:00:18 2024 +0800
+
+    Update add functionality
+
+[33mcommit 5f10009c62ee8ca70417bca822b220a317b90925[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 16:16:33 2024 +0800
+
+    Add functionality to edit task in admin page
+
+[33mcommit 863ac2d8b5f342c3dfafa057de735b87bc766bb8[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 09:39:14 2024 +0800
+
+    Add task page
+
+[33mcommit 77f5a605a44b9a0959fd23f9740b24d8d4f2c48f[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 19 09:37:53 2024 +0800
+
+    Add functionality to edit robot
+
+[33mcommit 885b7e2e349a4c08b77a5b2d4bb5459ec9a8efe4[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Aug 18 09:49:28 2024 +0800
+
+    update
+
+[33mcommit 04fe337c0f8557285db9a56f6653e11756c5cc46[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Aug 18 08:20:01 2024 +0800
+
+    update user page of admin
+
+[33mcommit 4f099fe5684b7df4b66462ba67978f8915384574[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sun Aug 18 04:25:32 2024 +0800
+
+    Ignore focused board when user is 1st rank
+
+[33mcommit 2027c3f85353d5eee44220bc278458b92079459d[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sat Aug 17 17:46:12 2024 +0800
+
+    fix rank order
+
+[33mcommit dce950573e5b999482b2ceb9caee66288f6682f7[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sat Aug 17 17:28:23 2024 +0800
+
+    update leaderboard page
+
+[33mcommit e5505c527e488ec056302d207e8da6e71d53f0fb[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sat Aug 17 15:53:47 2024 +0800
+
+    fix live score issue
+
+[33mcommit b62afb130209e6ca5831b595de66d8e50edd761f[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sat Aug 17 06:43:56 2024 +0000
+
+    debug live scre
+
+[33mcommit b5eb3bd2821c05ce7c20eb468b7e708377ab0787[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sat Aug 17 06:31:30 2024 +0000
+
+    fix issue
+
+[33mcommit e9931178bf92ab78ac24ab284234ba53e1a2c5f6[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sat Aug 17 06:04:17 2024 +0000
+
+    add console
+
+[33mcommit 126b21b7d5aaadc34e63b996f3a4b0780e01585e[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 17:27:24 2024 +0000
+
+    fix hourly reward formular
+
+[33mcommit 8ed6d218e03631e85f636dd9aa5cb8f5bf0773cc[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 17:24:09 2024 +0000
+
+    fix hourly reward formular
+
+[33mcommit b35684f3f9b50b90e180ee4c63b711caf5a63487[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 15:05:05 2024 +0000
+
+    re-commit
+
+[33mcommit 61c707b345520a6551c73140839065c387da2901[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 17:31:45 2024 +0300
+
+    Update and rename deploy.yml to deploy-dev.yml
+
+[33mcommit cce7293eca0ec22a49303eb0d7c7540209a3edc4[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 22:05:15 2024 +0800
+
+    add user and robots page in the admin
+
+[33mcommit 885af507498408ae322159a404bea2889d4306e0[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 17:09:55 2024 +0800
+
+    fix layout of information dialog about robot
+
+[33mcommit 47807a36d846cb928a912352df4922b85501282c[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 17:09:28 2024 +0800
+
+    fix hourly reward caculating
+
+[33mcommit 75195355a988e24c911e900d22f2ff27a8c5ea28[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 16:19:55 2024 +0800
+
+    fix time limit
+
+[33mcommit 3d1f89c3ee389f40bb62f1f4bbc15e24cd95ec02[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 16:19:04 2024 +0800
+
+    fix daily reward
+
+[33mcommit d75a055c63fcf033e61272bc0fbea51aba2269fc[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 16:05:35 2024 +0800
+
+    fix add/remove items issue
+
+[33mcommit fbc06e7af20680edd59313e84e1fa7a142bdbe6c[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 15:01:06 2024 +0800
+
+    feat: add try catch
+
+[33mcommit 8621c1afaff40d4e6de055e6211e9da17f43c7d2[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 15:00:56 2024 +0800
+
+    feat: remove success dialog after 2s
+
+[33mcommit 01dd003b04e113232947b54cefea3850eb6b5e66[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 11:05:32 2024 +0800
+
+    remote progress text
+
+[33mcommit dffd953cd76bf0301be6af57035cf3cb418bb1d8[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Aug 16 11:04:11 2024 +0800
+
+    feat: add level up functionality
+
+[33mcommit fd68d51d08cf8970f652b17380a6f8d1467182fd[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Thu Aug 8 20:37:39 2024 +0500
+
+    fix style + sort filter shop2.2
+
+[33mcommit deb6febc706e50d41442247912988ae7449261c9[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Thu Aug 8 20:19:22 2024 +0500
+
+    fix style + sort filter shop2.1
+
+[33mcommit 01447d79d97b5db738aecf8ba3687a598bc1c968[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Thu Aug 8 19:14:59 2024 +0500
+
+    fix style + sort filter shop2
+
+[33mcommit e6fbd377e76425795924ce19d7f58a0b0f0b07cb[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Thu Aug 8 18:37:55 2024 +0500
+
+    fix style + sort filter shop
+
+[33mcommit 47eb2a92ba4e68825d42742ef0b01a445c29df35[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Thu Aug 8 01:26:56 2024 +0500
+
+    fix style robot card + more4.1
+
+[33mcommit 62f7186cfc44ace5ef4471b2815f5ee5712d6cac[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Thu Aug 8 01:04:54 2024 +0500
+
+    fix style robot card + more4
+
+[33mcommit 20394c0a2a139d255dc71776e6ffa3834695b803[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Thu Aug 8 00:33:32 2024 +0500
+
+    fix style robot card + more3
+
+[33mcommit daecda19b52ba439db6a92976fae3d8f24e271c7[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Thu Aug 8 00:05:37 2024 +0500
+
+    fix style robot card + more2
+
+[33mcommit b826cf09c1a839ae333eb1a6351c74c9b9fa3b23[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Thu Aug 8 00:11:00 2024 +0800
+
+    feat: update
+
+[33mcommit 46ca2e3a9ab5577bd56eae87a7cd20b8166ff1fa[m
+Merge: 18812de ee2620d
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Aug 7 23:19:17 2024 +0800
+
+    Merge branch 'master' of https://github.com/aimdo/megaton
+
+[33mcommit 18812de38d2eede594e0af8ca1562b367975dc75[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Aug 7 23:16:04 2024 +0800
+
+    feat: update live score logic
+
+[33mcommit 5b25404b94d6df0bbd665608ccb27231a1605df9[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Aug 7 23:15:10 2024 +0800
+
+    feat: setting for IntelliJ's
+
+[33mcommit ee2620d027da0f19996dd0b8cf665ed94965e225[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Wed Aug 7 15:48:18 2024 +0500
+
+    fix style robot card + more
+
+[33mcommit 56f5fed1baf08e7dbaf285f9b55b1a0234f6fa8a[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Aug 7 00:33:28 2024 +0800
+
+    feat: add 'hourly_reward_point' field
+
+[33mcommit 350e5a5839fa0de602ebf05f3aaaf52a422fcada[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 6 23:50:14 2024 +0800
+
+    feat: add 'is_online' field
+
+[33mcommit 8de455a6a543c16aa53f694f7b97178f66351129[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 6 22:06:45 2024 +0800
+
+    feat: modify header color dark
+
+[33mcommit ff255c9be3c908eec746e2540c236d8adb4ee569[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 6 21:32:30 2024 +0800
+
+    Modify header color
+
+[33mcommit 29521aefb4d05f4a77e948238423ca7d8086a42f[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Aug 6 21:29:24 2024 +0800
+
+    modify header color
+
+[33mcommit ccd1ee8304c9f8485bb306bf0d5357df375fe8dc[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Tue Aug 6 05:22:06 2024 +0500
+
+    fix store style 2.64 + more
+
+[33mcommit a7729f827f50352000e08ed741c06471565e31a5[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Mon Aug 5 20:28:02 2024 +0500
+
+    fix store style 2.63
+
+[33mcommit de631a465c4da8c718f5847304c771795295c476[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Mon Aug 5 20:05:53 2024 +0500
+
+    fix store style 2.62 + postEvent off err
+
+[33mcommit 695e8026adbc44b125fdc231a8ac5fd04e2e8544[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 5 21:32:03 2024 +0800
+
+    feat: modify header color
+
+[33mcommit 3169bfdaf81168f94178660807e1201b12cbbc4e[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Mon Aug 5 16:33:07 2024 +0500
+
+    fix store style 2.61
+
+[33mcommit 95afb74a6d19599ddc43b0777853cc7602eba6b1[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Mon Aug 5 16:30:05 2024 +0500
+
+    fix store style 2.6
+
+[33mcommit 3da26d4d9227ddf5203c6eb72fd05b0f77fcbf4f[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Mon Aug 5 15:29:50 2024 +0500
+
+    fix store style 2.5
+
+[33mcommit 9886a6817c7443bd835ddab9e5cce386bba67b47[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Mon Aug 5 15:22:13 2024 +0500
+
+    fix store style 2.4
+
+[33mcommit 7717a60829d1ce867976c4ffb62c24b2c0738c31[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Aug 5 09:48:51 2024 +0000
+
+    feat: modify theme color
+
+[33mcommit 8a0f981a2c8cf10814e4ea2a2cb05f62e824230a[m
+Author: root <root@srv886017962.host>
+Date:   Mon Aug 5 09:40:19 2024 +0000
+
+    feat: modify theme color
+
+[33mcommit 6e28f5d55622a99ca8d560bc5d4f855d662dfbe4[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Mon Aug 5 01:41:13 2024 +0500
+
+    fix store style 2.3
+
+[33mcommit a8b04128e202504c8e30f0fcccdbc03aa4607817[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Mon Aug 5 01:36:36 2024 +0500
+
+    fix store style 2.2
+
+[33mcommit 9ca8f0dd7874c6abfa01eb55f0073b3a176b0a45[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Sun Aug 4 19:58:36 2024 +0500
+
+    fix about bot + fix store style2.1
+
+[33mcommit 1b0e16412f29dfb8bbba7c0f428cac613f8ad1e0[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Sun Aug 4 19:45:56 2024 +0500
+
+    fix store style2
+
+[33mcommit 9b40fda67457ae06567a85390cecf27fa25b7a7c[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Sun Aug 4 05:26:48 2024 +0500
+
+    fix about in tg2.2
+
+[33mcommit 45af3735402635239c673f5ffbbad9a282ae39eb[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Sun Aug 4 05:10:23 2024 +0500
+
+    fix about in tg2.1
+
+[33mcommit 16c62afd31c3304d417871fbbe40249d73016c41[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Sun Aug 4 05:08:17 2024 +0500
+
+    fix about in tg2
+
+[33mcommit 82ed782ef8daf390e050254d81fcf19f81ce6149[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Sun Aug 4 05:04:36 2024 +0500
+
+    fix about in tg
+
+[33mcommit bddd800a3bf9c2e6ad0a4dd64438fb0e9693a397[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Sun Aug 4 04:54:27 2024 +0500
+
+    skeleton loading full image + store style
+
+[33mcommit 5fa3caeaef5572cd669bcd9ece1460eb25196f9b[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 31 17:51:08 2024 +0800
+
+    feat: add socket service
+
+[33mcommit c7f6d2ef616e22b56a53197c43e697d41ccf22a7[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 31 17:50:23 2024 +0800
+
+    feat: add BOT_REWARD_LIMIT_TIME constant
+
+[33mcommit 783e6ef14cdaff0dbc235f31086e908f33692c24[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 31 17:49:54 2024 +0800
+
+    feat: update filter condition with last_online_at field
+
+[33mcommit b876692c413c745d56461350d1da218676b11c13[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 31 17:49:31 2024 +0800
+
+    feat: update socket server
+
+[33mcommit c162d78d52ff44963afede7ea8305419ece8e3fc[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 31 17:49:01 2024 +0800
+
+    feat: add last_online_at field
+
+[33mcommit 4b16d018aaa3c5d11060392bb82d51ca0928aad8[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Jul 30 23:48:09 2024 +0800
+
+    feat: fix start point of daily reward
+
+[33mcommit c7baf7da92d5f224b5f8327f74798aaeec6ad82b[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Jul 30 23:27:47 2024 +0800
+
+    feat: add if case of user robots object
+
+[33mcommit 6baa92d2debb519b867fa5cbf833c98cbe1396d4[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Jul 30 22:44:08 2024 +0800
+
+    feat: add console debug
+
+[33mcommit 40abe506eae819ee57cbee13ef4a18a2e0964c47[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Jul 30 22:42:19 2024 +0800
+
+    feat: update placeholder
+
+[33mcommit 60c66e3e0cc4a111c5431f769ff4e0089bd0f954[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Jul 30 17:38:07 2024 +0800
+
+    feat: add callback
+
+[33mcommit a19708aa53cbc6c05785651c17111203f7266056[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Tue Jul 30 00:14:58 2024 +0800
+
+    feat: add alliance logic
+
+[33mcommit 47376597c3f60a2d1d353efc24265b8f53186e47[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Sun Jul 28 08:29:09 2024 +0800
+
+    feat: update daily reward logic
+
+[33mcommit aa437917093879bbd301094a59a84493e14720b4[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Sat Jul 27 09:26:54 2024 +0800
+
+    feat: update notification modals
+
+[33mcommit daecc669e614b987ed23efb9439c3cde939b51d4[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Sat Jul 27 09:26:38 2024 +0800
+
+    feat: update daily reward functionality
+
+[33mcommit 93ac518586666d5f6df71dfbdd46327e4ba76864[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Fri Jul 26 23:26:31 2024 +0800
+
+    feat: add daily reward functionality
+
+[33mcommit cbcc7b96a38e796cc1df08b13e6df6d8395f74ab[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Fri Jul 26 16:44:44 2024 +0800
+
+    feat: add task reward functionality
+
+[33mcommit 33a88569420c1e150a83302ccae57ee4ad6afb21[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Fri Jul 26 16:43:49 2024 +0800
+
+    feat: update db migration
+
+[33mcommit c0109e923cc12bb54ec7cac3f21259edaa1064d8[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Fri Jul 26 15:36:52 2024 +0800
+
+    feat: update db migration
+
+[33mcommit 19d5f03729005a108dccb722aa4c3697a2c97152[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Thu Jul 25 17:25:56 2024 +0800
+
+    feat: create mvc model for tasks
+
+[33mcommit 127ab9a7e8b7fe52c78e3344fde7cdbb64c0eafb[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Thu Jul 25 17:25:26 2024 +0800
+
+    feat: add icons
+
+[33mcommit bd8af7cc2bfbe9b9ac78089e5483f1ec8e2c129e[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Thu Jul 25 16:52:40 2024 +0800
+
+    feat: update fake seeder
+
+[33mcommit eb52882ea046af15cf994cea9f85021f2f5f71d6[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Thu Jul 25 16:40:16 2024 +0800
+
+    feat: add bot task success msg
+
+[33mcommit 7ac5728ca5573d0b3991b919be1a85508cce0918[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Thu Jul 25 16:39:58 2024 +0800
+
+    feat: create table for bot tasks
+
+[33mcommit 552150e87900fa884deaa6b84707cd3ae02c9cd8[m
+Author: Yat <ligun8593@gmail.com>
+Date:   Tue Jul 23 09:03:50 2024 +0800
+
+    feat: fix eslint
+
+[33mcommit 6d0816dccbc14fd13ba933d3742b7c441a322d82[m
+Merge: 90a403a 7042dde
+Author: CryptoFox2276 <jstopcoder0209@gmail.com>
+Date:   Tue Jul 23 08:57:08 2024 +0800
+
+    Merge branch 'master' of https://github.com/aimdo/megaton
+
+[33mcommit 90a403aaa63fb3b5304f8bcd6ec7155bb176b6c2[m
+Author: CryptoFox2276 <jstopcoder0209@gmail.com>
+Date:   Tue Jul 23 08:56:51 2024 +0800
+
+    feat: update
+
+[33mcommit 7042dde6c1131a7a71afb0808418d2f2d5e950d9[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Mon Jul 22 14:46:46 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit 560948c5c69088e7e25912cbb18508aa43e41b55[m
+Merge: cd02651 91229dc
+Author: Yat Nam <ligun8593@gmail.com>
+Date:   Mon Jul 22 14:54:14 2024 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit cd02651324856e17224e2b6560e00cfd902ddac9[m
+Author: Yat Nam <ligun8593@gmail.com>
+Date:   Mon Jul 22 14:45:41 2024 +0800
+
+    feat: remove console debug
+
+[33mcommit 22030569ee636d6d68d8a790e8111a92a1e61d68[m
+Author: Yat Nam <ligun8593@gmail.com>
+Date:   Mon Jul 22 14:44:25 2024 +0800
+
+    feat: add referral system
+
+[33mcommit 91229dca3196d27770a5731704331da838866a39[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Sat Jul 20 17:03:37 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit 09f09487c3907c6683f96f67c6d703a7fb8e0b4f[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Sat Jul 20 16:30:11 2024 +0500
+
+    fix style + auto border skeleton
+
+[33mcommit 9a088862593c0bb8abc9d7e80bbcde7839692443[m
+Author: Yat Nam <ligun8593@gmail.com>
+Date:   Sat Jul 20 18:39:21 2024 +0800
+
+    feat: fix score animation
+
+[33mcommit 5ecd4e38c61e0dacc966c427894145241379824b[m
+Author: Yat Nam <ligun8593@gmail.com>
+Date:   Sat Jul 20 18:24:20 2024 +0800
+
+    feat: score animation
+
+[33mcommit 9a084a5fc771dd3e019e04b550b4d16426da6da8[m
+Author: Yat Nam <ligun8593@gmail.com>
+Date:   Sat Jul 20 17:37:01 2024 +0800
+
+    feat: score section in the home page
+
+[33mcommit 78031c94e2142f4f5d0f299fbc08cbad876fd901[m
+Author: Yat Nam <ligun8593@gmail.com>
+Date:   Sat Jul 20 06:44:01 2024 +0800
+
+    feat: fix UI feedback
+
+[33mcommit b411155e7a5ff4a2f3d9feb0c0e772549b5540cf[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Jul 19 11:54:39 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit 6bc174b7cbb4088979fd112948653758e96478f4[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Fri Jul 12 13:49:00 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit 8faa41de4c150e64ded8c1639fcb0773035c10d4[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 10 18:49:05 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit b28e9c55c0ab763a63ceb647ae3959eaf4121b6d[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 10 11:51:34 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit 0b489e8b85f9aa6a213f425bdf00a8fd93e769cd[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 10 11:44:30 2024 +0300
+
+    Create deploy.yml
+
+[33mcommit dc00da6056cf928ec2acad902989f1fbdd48723c[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 10 11:43:24 2024 +0300
+
+    Delete .github/workflows/deploy.yml
+
+[33mcommit f838e8bfe08a6a8160b82a6354e5b497f11cff78[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 10 11:28:41 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit 0b2d8f219a9816305130690285b243d7a37880be[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 10 11:13:57 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit 144dddef8aa2e0a5df54dba7e6f3930cdea8b653[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 10 11:06:32 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit c6cd57e7893c85269c7e6b38136ab41f6f731368[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 10 10:52:49 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit b4eb8ee3f9a624b0b02a552a2ddc31fb73badf6d[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 10 10:44:01 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit d9389afb6eb3e613b27529c312604784af7a3d03[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 10 02:10:20 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit 2be221e33605e45cb827ba7394673be150380c51[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 10 02:08:08 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit 26cbed8b7bf2fd6768cf4611f0b142bf5bbf3f83[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Wed Jul 10 01:30:18 2024 +0300
+
+    Update deploy.yml
+
+[33mcommit 2f4f80c91298ff43308bb53a68f85a75e8d27d2c[m
+Author: ligun8593 <ligun8593@gmail.com>
+Date:   Tue Jul 9 18:22:24 2024 +0300
+
+    Create deploy.yml
+
+[33mcommit eee67dc5e332fc633c0672568c727e451d93a51b[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Mon Jul 8 01:19:29 2024 +0500
+
+    ref send tonconnect fix and font global
+
+[33mcommit bb3f0ddede19abbb5566f0053a69f4184d7ef502[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Sun Jul 7 20:44:16 2024 +0200
+
+    fix bot util
+
+[33mcommit 9119b4a822b742c60ee42a21f1a504cfa23688bb[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Fri Jul 5 00:14:22 2024 +0500
+
+    copy ref skeleton loading resize day reward new + style and more
+
+[33mcommit 379408498dd7133f57d95fcfbbf7b0f1552b8252[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Mon Jul 1 22:37:22 2024 +0200
+
+    limit item set
+
+[33mcommit 5bde72507e13a57b8aa858cc83b0498f7f88addd[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Mon Jul 1 15:43:00 2024 +0200
+
+    hide backbutton on home
+    
+    put basic avatar if avatar is missing
+
+[33mcommit 1e652f33aa52a157c55ac085ece978c2086ef148[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Fri Jun 28 09:45:09 2024 +0200
+
+    apply additional attribute
+
+[33mcommit 16f715886f031be96cd23357f01b619b1e90d137[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Thu Jun 27 21:04:26 2024 +0200
+
+    update store
+
+[33mcommit 92a3309224a2bbc0ddd7f7539e7322c9be8e4c45[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Thu Jun 27 19:55:15 2024 +0200
+
+    refactor robot table
+
+[33mcommit 4118625e5b0d65b449df54effa0f735dc3254a47[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Thu Jun 27 11:08:29 2024 +0200
+
+    update store and tasks
+
+[33mcommit 4a47f3a3080f7f0d937a362eac4ead3bb4b5dda5[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Thu Jun 27 10:19:34 2024 +0200
+
+    refactor snackbar to toast
+
+[33mcommit 8296fe275a1f7d685edee8ceb82d08de8b051c28[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Thu Jun 27 09:23:13 2024 +0200
+
+    create fake seeder
+
+[33mcommit e3fc59995f235f39221ac6e391175ca0f1453a74[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Thu Jun 27 07:25:20 2024 +0200
+
+    implement equip item
+
+[33mcommit e90f2999e292b48beb455bca994ac0c5f3050534[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Thu Jun 27 02:44:48 2024 +0200
+
+    update profile
+
+[33mcommit c7bd621edebdba74fadb532fb25723064d8320c7[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Wed Jun 26 00:14:39 2024 +0200
+
+    update static path
+
+[33mcommit 4f4e572f2789a4a78ca60938ddf35000c680e498[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Wed Jun 26 00:07:15 2024 +0200
+
+    update static path for build
+
+[33mcommit d2491cfdaaf83d85db6e5e19504cc29d0c5fef75[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Tue Jun 25 23:28:55 2024 +0200
+
+    remove information from route
+
+[33mcommit f8d658bc8e43ebb8c5a6e043f0a3f134b6aa33c0[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Tue Jun 25 23:22:21 2024 +0200
+
+    update page layout
+
+[33mcommit 1f60efd5a6a0dee09735098df1652fd7d812f203[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Tue Jun 25 22:33:54 2024 +0200
+
+    update home page
+
+[33mcommit d0807e4661bd245d98cbb7aa35dba7cde2bfad76[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Tue Jun 25 17:27:30 2024 +0200
+
+    update robot and items
+
+[33mcommit 098445afb3164c2c8fe8e0d86d6f4631e5258212[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Tue Jun 25 10:36:31 2024 +0200
+
+    update process of bot start and splash
+
+[33mcommit d7d265ada0659e0d0243086ae1e80ee46a7ac48b[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Tue Jun 25 09:15:19 2024 +0200
+
+    implement seed
+
+[33mcommit 21d1ee275b8c6c8ab84b68e99d160e3a1b63d7af[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Tue Jun 25 07:41:23 2024 +0200
+
+    update robot seed
+
+[33mcommit 991e5a07fdebabb242c022df79b81000d77a4e79[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Tue Jun 25 07:33:52 2024 +0200
+
+    update migration
+
+[33mcommit 46032a329c54695726abb515bafa963f4602f36a[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Tue Jun 25 04:43:23 2024 +0200
+
+    update item type and position
+
+[33mcommit c0dd7da91367c712b88d040a816e445aa6527c0c[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Tue Jun 25 04:33:00 2024 +0200
+
+    create robot and item model
+
+[33mcommit a7c8ccd21e37e6ba26400fe576655431ec4e6674[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Sat Jun 22 00:21:21 2024 +0200
+
+    update home
+
+[33mcommit ab1bfeb8dccc0bd4b654d5c8e3b97b40dd360a14[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Fri Jun 21 19:11:43 2024 +0200
+
+    complete store
+
+[33mcommit 51f34ed280779a0eac079cd1f00dd3a4eb192654[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Fri Jun 21 16:26:11 2024 +0200
+
+    update alliance view
+
+[33mcommit 1164fa76f72a62f05454ed7daaab234334df3801[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Fri Jun 21 04:47:55 2024 +0200
+
+    optimize cronjob
+
+[33mcommit 949c05eec1c755057e7fc75f1e31558b37d86e28[m
+Merge: 255693e c352e61
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Fri Jun 21 04:10:42 2024 +0200
+
+    Merge branch 'master' of https://github.com/aimdo/megaton
+
+[33mcommit 255693e7ab8d85ba906d5ee50033eb1804de9ee5[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Fri Jun 21 04:10:30 2024 +0200
+
+    update alliance view
+
+[33mcommit c352e6172704322cab3b46ba942858dbd7e5a9f5[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Fri Jun 21 01:42:35 2024 +0500
+
+    no zoom app + font
+
+[33mcommit f6c1683f62501f431338a069bbf3f41dfcbca05d[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Thu Jun 20 17:58:27 2024 +0200
+
+    complete leaderboard
+
+[33mcommit 8b0fbcf9d431a26c68ed21479acf60180f47a289[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Thu Jun 20 16:53:31 2024 +0200
+
+    complete alliance list
+
+[33mcommit c41fa6df368ca0bc7ac23c7accea21228f1de67a[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Tue Jun 18 23:39:47 2024 +0200
+
+    update leaderboard
+
+[33mcommit 87dac4270240726a289fb002f43e819f6c438fdd[m
+Author: mr-luckyluke <luckydevn16@gmail.com>
+Date:   Tue Jun 18 22:22:08 2024 +0200
+
+    sync repo
+
+[33mcommit 0ac339bd8827b3ecd5f36a84f54f43d07d89f63a[m
+Author: aimdo <xbasegroup@gmail.com>
+Date:   Fri Jun 14 00:43:24 2024 +0500
+
+    init commit
